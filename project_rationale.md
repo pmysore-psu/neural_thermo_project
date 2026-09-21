@@ -9,6 +9,9 @@ The reason I will complete this project is because:
 2. I need to complete a project for my BME 313 biothermodynamics class
 3. I want an opportunity to explore mathematical modelling in neuroscience
 
+
+I will not be commenting on the reliability of each model or how accurate they are compared to each otehr because I dont know that much about neuroscience, but I just want to compare them and see how they fare based on the math behind them. 
+
 Prelimiary literature:
 Biological neuron model - Wikipedia 
 Soliton model in neuroscience - Wikipedia 
