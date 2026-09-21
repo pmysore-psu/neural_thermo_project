@@ -5,9 +5,9 @@ Neuronal action potential generation and propagation is often explained through 
 The purpose of this project is primarily to model the Soliton theory of neural propagation and compare it to the Hodgkin-Huxley model with coding and visualizatino. Furthermore, I will be looking into the mathematics these models are based off of and hopefully will investigate derivation of these models (if I have time…). Furthermore, I hope to also include code for neural propagation models based on information theory and stochastic neuronal propagation. 
 
 The reason I will complete this project is because:
-I like neuroscience and math and physics and have an interest in it
-I need to complete a project for my BME 313 biothermodynamics class
-I want an opportunity to explore mathematical modelling in neuroscience
+1. I like neuroscience and math and physics and have an interest in it
+2. I need to complete a project for my BME 313 biothermodynamics class
+3. I want an opportunity to explore mathematical modelling in neuroscience
 
 Prelimiary literature:
 Biological neuron model - Wikipedia 
